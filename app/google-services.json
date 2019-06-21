@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "480702228096",
+    "firebase_url": "https://dailytaskapp-578e8.firebaseio.com",
+    "project_id": "dailytaskapp-578e8",
+    "storage_bucket": "dailytaskapp-578e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480702228096:android:12f4582832072019",
+        "android_client_info": {
+          "package_name": "com.example.aws.blogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480702228096-s28unfka6af5kql3kh8cu8a6phlnag48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6-OlNqOgBQPpe42TbzlGBDqfLkBQdeDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480702228096-s28unfka6af5kql3kh8cu8a6phlnag48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
